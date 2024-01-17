@@ -45,7 +45,7 @@ yarn dev
 - 编辑 Fork 后项目根目录下 `config` 下相关配置文件，进行 [FRE123 数据配置](./.files/docs/config.md)
 - 基于 Vercel 一键部署
 
-详细配置教程：[开源! 普通人如何快速免费搭建个性化导航网站](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)。还不懂？直接加[老胡的储物柜](https://cdn.jsdelivr.net/gh/fre123-com/fre123-info-flow@main/.files/wechat.jpeg) 沟通资讯。
+详细配置教程：[开源! 普通人如何快速免费搭建个性化导航网站](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)。
 
 ## QA
 
@@ -53,25 +53,5 @@ yarn dev
 
 详情见：[FRE123 启动计划](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
 
-> 我可以提交我搭建的导航网站吗？
-
-可以，欢迎任何人分享自己搭建的导航网站，具体见：[Fre123 导航网站提交指南](https://www.fre123.com/pub_nav)，有任何问题欢迎加我微信沟通。
-
-> 有资源共享群么？
-
-有的，同上联系老胡后拉你进群，本群都是热爱分享的朋友，只想潜水勿进，谢谢
 
 ## 说明
-
-欢迎加入我们的交流群，一起交流学习：
-
-- 关注公众号：[老胡的储物柜](https://cdn.jsdelivr.net/gh/fre123-com/fre123-info-flow@main/.files/wechat.jpeg)
-- 回复 `加群` 即可加入我们的交流群
-
-该项目由 `FRE123` 团队维护，如果您在使用该项目时遇到任何问题，请随时提交 `issue` 或联系我们。
-
-技术交流群🤖：
-
-<p align="center">
-  <img src=".files/images/w_group.jpg" width="50%">
-</p>

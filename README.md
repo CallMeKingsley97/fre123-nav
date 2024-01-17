@@ -47,11 +47,5 @@ yarn dev
 
 详细配置教程：[开源! 普通人如何快速免费搭建个性化导航网站](https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA)。
 
-## QA
-
-> 为什么要做这个项目？
-
-详情见：[FRE123 启动计划](https://mp.weixin.qq.com/s/6El2AW93K4RiEHhma3vVPg)
-
 
 ## 说明
